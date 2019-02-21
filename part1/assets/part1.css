@@ -1,0 +1,77 @@
+p {
+    text-align: left;
+    color: blanchedalmond;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline; 
+    font-style: oblique;
+    margin-left: 20%; 
+    margin-right: 20%; 
+    margin-top: 5%;
+}
+
+p.toc {
+    color: white;
+    text-align: center;  
+}
+
+
+
+p a {
+    color: white;
+    text-align: center;
+}
+
+img {
+    /* https://www.w3schools.com/css/css3_images.asp 2/29/2019 */
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+    border-radius: 8px;
+}
+
+body {
+    background-image: url("bg.jpg");
+    background-color:grey;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    text-align: center;
+    font-weight: 300;
+    line-height: 1.5;
+    color: white;
+    margin-left: 20%; 
+    margin-right: 20%; 
+    margin-top: 3%;
+}
+
+ p h1, p h2, p h3, p h4, p h5, p h6 {
+    text-align: left;
+    color: blanchedalmond;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline; 
+    font-style: oblique;
+    margin-left: 20%; 
+    margin-right: 20%; 
+    margin-top: 5%;
+}
+
+
+
+
+pre    { 
+    color: blanchedalmond;
+    font-style: italic; 
+    font-size: 100%; 
+    margin-left: 10%;
+}
+
+.foot { 
+    margin-left: 20%; 
+    margin-right: 20%; 
+    text-align: justify; 
+    text-indent: -3em; 
+    font-size: 90%; 
+}
