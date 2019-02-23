@@ -21,4 +21,12 @@ repository and (C) 2013 Abram Hindle visibile in the text.
 
 Code is licensed under the Apache 2.0 license.
 
+### modifications
 
+1. add background img
+2. make img border rounded
+3. change p margin and color
+4. change link text color and align
+5. change h1h2h3h4h5 color size
+
+collaborator: yuntian1
